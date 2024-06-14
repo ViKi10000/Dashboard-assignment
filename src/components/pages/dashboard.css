@@ -1,0 +1,12 @@
+.dashboard{
+    margin-top: 3px;
+    padding: 5px 5px;
+    transition: all 0.3s;
+ }
+ 
+ 
+ @media(max-width:1199px){
+     #dashboard{
+         padding: 20px;
+     }
+ }
